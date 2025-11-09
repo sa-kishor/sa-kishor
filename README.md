@@ -21,7 +21,7 @@
 
 ---
 <p align="center">
-  <a href="Kishor_Saravanan_Resume.pdf">
+  <a href="[Kishor_Saravanan_Resume.pdf](https://drive.google.com/file/d/13WAC5QvjBiBFR_v_bL7XbdOQOsSrQg7u/view?usp=sharing)">
     <img src="https://img.shields.io/badge/📄_RESUME-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   <a href="[YOUR_PORTFOLIO_LINK_HERE]">
