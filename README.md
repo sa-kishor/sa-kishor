@@ -21,8 +21,8 @@
 
 ---
 <p align="center">
-  <a href="[Kishor_Saravanan_Resume.pdf](https://drive.google.com/file/d/13WAC5QvjBiBFR_v_bL7XbdOQOsSrQg7u/view?usp=sharing)">
-    <img src="https://img.shields.io/badge/📄_RESUME-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/13WAC5QvjBiBFR_v_bL7XbdOQOsSrQg7u/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_RESUME-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
   <a href="[YOUR_PORTFOLIO_LINK_HERE]">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
