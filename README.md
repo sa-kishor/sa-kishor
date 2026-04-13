@@ -73,34 +73,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### Productivity
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### Documentation & Markup
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sa-kishor&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sa-kishor&layout=compact&theme=radical)
--->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sa-kishor&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa-kishor&layout=compact&theme=radical" />
-</div>
-
-<!-- <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-kishor&theme=radical" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sa-kishor&theme=radical" />
-</div> -->
-
-
-
-
 
 ## 🌐 Social & Connects
 
