@@ -21,9 +21,9 @@
 
 ---
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1qRLkFcaDtdTqakiS8H9AA_NWJRoPdhxF?usp=sharing">
-    <img src="https://img.shields.io/badge/📄_RESUME-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-  </a>
+ <a href="https://drive.google.com/file/d/1P--pyCoJfGw0uEtuy-oh-QrGwCnElDEg/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📄_RESUME-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+</a>
   <a href="https://portfolio-liart-nine-99.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
@@ -76,13 +76,7 @@
 
 ## 🌐 Social & Connects
 
-<p align="center">
-  <a href="Kishor_Saravanan_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/📄_Download_RESUME-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
-  </a>
-  <a href="[YOUR_PORTFOLIO_LINK_HERE]" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_PORTFOLIO-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio"/>
-  </a>
+
   <a href="https://linkedin.com/in/kishor-saravanan-30" target="_blank">
     <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
