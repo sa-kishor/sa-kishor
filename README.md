@@ -21,10 +21,10 @@
 
 ---
 <p align="center">
-  <a href="https://drive.google.com/file/d/13WAC5QvjBiBFR_v_bL7XbdOQOsSrQg7u/view?usp=sharing">
+  <a href="https://drive.google.com/drive/folders/1qRLkFcaDtdTqakiS8H9AA_NWJRoPdhxF?usp=sharing">
     <img src="https://img.shields.io/badge/📄_RESUME-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
-  <a href="[YOUR_PORTFOLIO_LINK_HERE]">
+  <a href="https://portfolio-liart-nine-99.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
