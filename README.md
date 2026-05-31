@@ -21,7 +21,7 @@
 
 ---
 <p align="center">
- <a href="https://drive.google.com/file/d/1P--pyCoJfGw0uEtuy-oh-QrGwCnElDEg/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://drive.google.com/file/d/1yB8AV_pRWoXuXxueTPQD6WmF1Wa4NRol/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/📄_RESUME-2EA043?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
 </a>
   <a href="https://portfolio-liart-nine-99.vercel.app/">
